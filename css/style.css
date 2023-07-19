@@ -505,7 +505,7 @@ p {
 
 /*----------------------------------------- 6) Hero --------------------------------------------------*/
 #home {
-  background: url('../images/hero1.jpeg');
+  background: url('../images/baires.jpg');
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -774,7 +774,7 @@ ul.portfolio-image li .desc{
 }
 /*---------- d. testimonial -----------*/
 #testimonial {
-  background-image: url(../images/testimonial-bg.jpg);
+  background-image: url(../images/hero1.jpeg);
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -1191,7 +1191,7 @@ ul.portfolio-image li .desc{
   background: #ABABAB;
 }
 .twitter a:after{
-  background-color: #77ccf1;
+  background-color: #11f127;
 }
 .gplus{
   background: #d8d8d8;
